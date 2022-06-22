@@ -78,7 +78,7 @@ const SimpleInput = (props) => {
         )}
       </div>
 
-      <div className={nameInputClasses}>
+      <div className={emailInputClasses}>
         <label htmlFor='email'>Your E-mail</label>
         <input 
           type='email' 
